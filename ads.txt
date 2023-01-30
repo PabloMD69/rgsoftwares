@@ -1,4 +1,0 @@
-#Mowplayer
-google.com, pub-9219954761243535, RESELLER, f08c47fec0942fa0
-google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
-#MowPlayer 2023-01-10
